@@ -1,18 +1,17 @@
 # Sesia E. Quarles
-### Data Scientist | Financial Analytics | Security Analysis
+### Data Scientist
 
-Analytical professional with expertise in financial data science and security 
-analytics. I build data-driven solutions that translate complex datasets into 
-actionable insights for business and security contexts.
+Analytical professional. I build data-driven solutions that translate complex datasets into 
+actionable insights for stakeholders.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:** Python | SQL | PowerShell  
-**Data Science:** Data wrangling, statistical analysis, data visualization  
+**Data Science:** Data wrangling, statistical analysis, data visualization, model development  
 **Finance:** Risk modeling, financial data analysis, compliance workflows  
-**Security:** Log analysis, anomaly detection, threat data pipelines  
+**Security:** Log analysis, anomaly detection  
 
 ---
 
@@ -23,7 +22,7 @@ actionable insights for business and security contexts.
 - [Project Name](https://github.com/sesiaq-prog/REPO-NAME) — one sentence description
 - [Project Name](https://github.com/sesiaq-prog/REPO-NAME) — one sentence description
 
-### 🔒 Cybersecurity
+### 🔒 Security
 - [Project Name](https://github.com/sesiaq-prog/REPO-NAME) — one sentence description
 
 ---
