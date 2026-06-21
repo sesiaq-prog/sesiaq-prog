@@ -1,39 +1,44 @@
 # Sesia E. Quarles
-### Data Scientist
+### Data Analyst · Financial Analytics · Security Applications
 
-Analytical professional. I build data-driven solutions that translate complex datasets into 
-actionable insights for stakeholders.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sesiaequarles)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sesiaq--prog.github.io-14b8a6?style=flat&logoColor=white)](https://sesiaq-prog.github.io)
+
+Data analyst with 10+ years in financial operations, CompTIA Security+ certified, and a graduate degree in data analytics in progress. I build pipelines, predictive models, and dashboards that translate complex datasets into decisions that matter.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python | SQL | PowerShell  
-**Data Science:** Data wrangling, statistical analysis, data visualization, model development  
-**Finance:** Risk modeling, financial data analysis, compliance workflows  
-**Security:** Log analysis, anomaly detection  
+| Category | Skills |
+|---|---|
+| **Languages** | Python (Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn) · SQL (PostgreSQL) · R |
+| **Visualization** | Tableau · Advanced Excel (Power Query, Pivot Tables, VBA Macros) |
+| **Analytics** | Statistical Modeling · Predictive Modeling · PCA · Feature Engineering · EDA |
+| **Security** | Log Analysis · Anomaly Detection · CompTIA Security+ · Network+ |
+| **Domain** | Financial Operations · Healthcare Compliance (HIPAA) · Fraud Detection · Education Analytics |
 
 ---
 
 ## 📁 Projects
 
 ### 💹 Financial Data Science
-- [Project Name](https://github.com/sesiaq-prog/REPO-NAME) — one sentence description
-- [Project Name](https://github.com/sesiaq-prog/REPO-NAME) — one sentence description
-- [Project Name](https://github.com/sesiaq-prog/REPO-NAME) — one sentence description
+- [Housing Market Investment & Tax Analysis](#) — Multiple linear regression in R + PCA in Python for real estate investment strategy
+
+### 📊 Data Analytics
+- [Telecommunications Churn Dashboard](#) — Tableau dashboard identifying customer retention risk factors
 
 ### 🔒 Security
-- [Project Name](https://github.com/sesiaq-prog/REPO-NAME) — one sentence description
+- Coming soon
 
 ---
 
 ## 🎓 Education & Certifications
-- MS Data Analytics - Data Science, Western Governors University, expected April 2027
-- BBA International Business (Spanish), University of Texas at Arlington
-- Network+ April 2025 
-- Security+ February 2025
+
+- **M.S. Data Analytics – Data Science** · Western Governors University · Expected 2027
+- **B.B.A. International Business** · University of Texas at Arlington · Magna Cum Laude, GPA 3.84
+- CompTIA Secure Infrastructure Specialist (CSIS) — A+ · Network+ · Security+
 
 ---
 
-## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesiaequarles/)
+*Portfolio website: [sesiaq-prog.github.io](https://sesiaq-prog.github.io)*
